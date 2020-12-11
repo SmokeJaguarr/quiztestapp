@@ -1,5 +1,5 @@
 # Quiz Test application
-This is an application where users can choose and do test. Answers and final result is saved to MySQL database. It's possible to store unlimited amount of tests/questions/answers in database. Application is created in MVC design pattern.
+This is an application where users can do tests. Answers and final result is saved to MySQL database. It's possible to store unlimited amount of tests/questions/answers in database. Application is created in MVC design pattern.
 
 # Application setup on XAMPP
 1) Create "quiztestapp" in xampp/htdocs folder (can choose different name of Folder but then changes to path will be required)
@@ -27,3 +27,9 @@ git clone https://github.com/SmokeJaguarr/quiztestapp .
     ```
 5) Create database if not created (make sure database name is set up ar config.php file) and import testapp.sql file into the database.
 6) You are ready to go.
+
+# Key Features
+- User Registration system
+- Taking a Test. Every answer and final result is stored in database.
+- Unlimited amount of test questions and answers can be added to database
+- Final result is saved in database only when all test is finished.
