@@ -3,9 +3,9 @@ This is an application where users can choose and do test. Answers and final res
 
 # Application setup on XAMPP
 1) Create "quiztestapp" in xampp/htdocs folder (can choose different name of Folder but then changes to path will be required)
-2) CD in to created folder and clone repository
+2) Open CMD and cd in to created folder and clone repository
 ```
-git clone https://acgithub.com/SmokeJaguarr/quiztestapp .
+git clone https://github.com/SmokeJaguarr/quiztestapp .
 ```
 3) Set up Config file. Go to app/config/config.php
 ```
